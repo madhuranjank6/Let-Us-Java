@@ -1,6 +1,7 @@
 /**
 Question 1.
-If the cost price and selling price of an item is input through the keyboard, Write a java Program to determine whether the seller has made profit or incurred loss. Also determine how much profit he made or loss he incurred.
+If the cost price and selling price of an item is input through the keyboard, Write a java Program to determine whether the seller has made profit or incurred loss. 
+Also determine how much profit he made or loss he incurred.
 */
 
 import java.util.Scanner;
