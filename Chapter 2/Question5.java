@@ -1,6 +1,7 @@
 /*
 Question 5.
-Assume suitable values for length and bradth of a rectangle, and radius of a circle. Write a java Program to calculate the area and perimeter of the rectangle, and the area and the Circumference of the circle.
+Assume suitable values for length and bradth of a rectangle, and radius of a circle. Write a java Program to calculate the area and perimeter of the rectangle, 
+and the area and the Circumference of the circle.
 */
 
 import java.lang.*;
