@@ -1,6 +1,7 @@
 /**
 Question 5.
-A Cashier has currency notes of denominations 10,50 and 100. If the amount to be withdrawn is input through the keyboard, Write a java Program to find the minimun number of currency notes of each denominations the cashier will have to give to the withdrawer.
+A Cashier has currency notes of denominations 10,50 and 100. If the amount to be withdrawn is input through the keyboard, Write a java Program to find the minimun number of 
+currency notes of each denominations the cashier will have to give to the withdrawer.
 */
 
 import java.util.Scanner;
