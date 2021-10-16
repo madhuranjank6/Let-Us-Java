@@ -4,6 +4,7 @@ Question 1.
 Assume a suitable value for Ramesh's basic salary. His dearness allowance is 40% of the basic salary, and house rent allowance is 20% of basic salary. Write a java Program to calculate his gross salary.
 */
 
+
 import java.lang.*;
 import java.util.Scanner;
 class Question1{
