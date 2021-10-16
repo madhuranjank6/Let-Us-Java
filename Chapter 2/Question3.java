@@ -1,7 +1,8 @@
 
 /*
 Question 3.
-Assume the suitable values for the marks obtained by a student in five subjects are input through the keyboard. Write a java program to find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
+Assume the suitable values for the marks obtained by a student in five subjects are input through the keyboard. Write a java program to find out the aggregate marks and 
+percentage marks obtained by the student. Assume that the maximum marks that can be obtained by a student in each subject is 100.
 */
 
 import java.util.Scanner;
