@@ -18,6 +18,8 @@ class Question7{
             System.out.println("Equilateral Triangle");
         }else if(a==b || b == c || a==c){
             System.out.println("Isosceles Triangle");
+        }else if(a*a == (b*b + c*c) || b*b == (c*c + a*a) || c*c == (b*b + a*a)){
+            System.out.println("Right Angled Triangle");
         }else{
             System.out.println("Scalene Triangle");
         }
