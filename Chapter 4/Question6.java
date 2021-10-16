@@ -1,6 +1,7 @@
 /*
 Question 6.
-If the three sides of the triangle is input through the keyboard, Write a program to check whether the triangle is valid or not. The triangle is valid if the sum of two sides is greater than the largest of the three sides.
+If the three sides of the triangle is input through the keyboard, Write a program to check whether the triangle is valid or not. The triangle is valid if the sum of two sides 
+is greater than the largest of the three sides.
 */
 
 import java.util.Scanner;
