@@ -1,6 +1,7 @@
 /*
 Question 4.
-In a town, the percentage of men is 52. The percentage of total literacy is 48. If the total percentage of literate man is 35 of total population, Write a java program to find the total number of literate men and women if the total population of the town is 80,000.
+In a town, the percentage of men is 52. The percentage of total literacy is 48. If the total percentage of literate man is 35 of total population, Write a java program to find the
+total number of literate men and women if the total population of the town is 80,000.
 */
 
 class Question4{
