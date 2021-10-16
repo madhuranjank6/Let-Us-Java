@@ -1,6 +1,7 @@
 /*
 Question 9.
-Given the coordinates (x,y) of center of the circle and its radius. Write a java Program which will determine whether a point lies inside the circle, on the circle or outside the circle. (Hint: use Math.sqrt() and Math.pow() functions.)
+Given the coordinates (x,y) of center of the circle and its radius. Write a java Program which will determine whether a point lies inside the circle, on the circle or 
+outside the circle. (Hint: use Math.sqrt() and Math.pow() functions.)
 */
 
 import java.lang.*;
